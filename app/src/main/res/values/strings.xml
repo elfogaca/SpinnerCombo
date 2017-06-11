@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Spinner Combo 1.1</string>
+
+    <string name="hello_world">Sistema ELFO de Informática!</string>
+    <string name="hello">Edmar Luiz Leone Fogaça</string>
+    <string name="world">Cruz Alta - RS - Brasil</string>
+    <string name="action_settings">Usando o componente Spinner (combobox)</string>
+    <string name="action">Tutorial Andrés Menéndez</string>
+    <string name="act">Incluido Menu Settings</string>
+    <string name="settings">WebSite:https://elfogaca.</string>
+    <string name="set">wixsite.com/portifolio-elfo</string>
+    <string name="wor">Fogaça´s Home Page</string>
+
+
+    <string-array name="sistemas_mobile">
+        <item>Android</item>
+        <item>iOS</item>
+        <item>Windows Phone</item>
+    </string-array>
+
+</resources>
